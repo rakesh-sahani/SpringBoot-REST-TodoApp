@@ -1,0 +1,2 @@
+# SpringBoot-REST-TodoApp
+TODO APP  The app is to implement backend system for a TODO App. Each task in the todo app has following attributes: taskId,taskName,isDone,createdAt,doneAt Design a DB(MySQL) schema for the above. Create a simple set of REST APIs based on Java(preferred)/Python/PHP for the following actions to be taken in a TODO App. 1. Add a task 2. Edit a task 3. Read all tasks Frontend is not required, Only 3 working REST APIs are required.  Note:   All APIs has to be either GET/POST  All APIs should use input and/or output in Json format.
